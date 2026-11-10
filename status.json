@@ -1,0 +1,38 @@
+{
+ "collected_at": "2026-11-10T12:18:52+09:00",
+ "date": "2026-11-10",
+ "ok": true,
+ "error": null,
+ "complexes": [
+  {
+   "name": "마포래미안푸르지오",
+   "ok": true,
+   "error": null
+  },
+  {
+   "name": "공덕자이",
+   "ok": true,
+   "error": null
+  },
+  {
+   "name": "마포프레스티지자이",
+   "ok": true,
+   "error": null
+  },
+  {
+   "name": "래미안공덕4차",
+   "ok": true,
+   "error": null
+  },
+  {
+   "name": "래미안공덕5차",
+   "ok": true,
+   "error": null
+  },
+  {
+   "name": "마포자이힐스테이트라첼스",
+   "ok": true,
+   "error": null
+  }
+ ]
+}
