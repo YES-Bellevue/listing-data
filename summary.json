@@ -845,5 +845,126 @@
   "max": 36.0,
   "avg": 35.33,
   "median": 35.0
+ },
+ {
+  "date": "2026-11-14",
+  "complex": "마포래미안푸르지오",
+  "type": "149A",
+  "units": 7,
+  "postings": 60,
+  "min": 30.5,
+  "max": 33.0,
+  "avg": 31.57,
+  "median": 31.6
+ },
+ {
+  "date": "2026-11-14",
+  "complex": "마포래미안푸르지오",
+  "type": "150B",
+  "units": 8,
+  "postings": 100,
+  "min": 28.0,
+  "max": 32.0,
+  "avg": 30.34,
+  "median": 30.0
+ },
+ {
+  "date": "2026-11-14",
+  "complex": "마포래미안푸르지오",
+  "type": "150C",
+  "units": 17,
+  "postings": 66,
+  "min": 27.0,
+  "max": 33.0,
+  "avg": 30.17,
+  "median": 30.0
+ },
+ {
+  "date": "2026-11-14",
+  "complex": "공덕자이",
+  "type": "144A",
+  "units": 5,
+  "postings": 27,
+  "min": 28.0,
+  "max": 30.0,
+  "avg": 28.8,
+  "median": 29.0
+ },
+ {
+  "date": "2026-11-14",
+  "complex": "공덕자이",
+  "type": "152B",
+  "units": 13,
+  "postings": 65,
+  "min": 27.8,
+  "max": 31.0,
+  "avg": 28.95,
+  "median": 29.0
+ },
+ {
+  "date": "2026-11-14",
+  "complex": "마포프레스티지자이",
+  "type": "150A",
+  "units": 2,
+  "postings": 4,
+  "min": 34.0,
+  "max": 35.0,
+  "avg": 34.5,
+  "median": 34.5
+ },
+ {
+  "date": "2026-11-14",
+  "complex": "마포프레스티지자이",
+  "type": "150B",
+  "units": 1,
+  "postings": 3,
+  "min": 33.7,
+  "max": 33.7,
+  "avg": 33.7,
+  "median": 33.7
+ },
+ {
+  "date": "2026-11-14",
+  "complex": "래미안공덕4차",
+  "type": "141",
+  "units": 3,
+  "postings": 37,
+  "min": 24.0,
+  "max": 24.5,
+  "avg": 24.23,
+  "median": 24.2
+ },
+ {
+  "date": "2026-11-14",
+  "complex": "래미안공덕5차",
+  "type": "151",
+  "units": 2,
+  "postings": 2,
+  "min": 29.0,
+  "max": 32.0,
+  "avg": 30.5,
+  "median": 30.5
+ },
+ {
+  "date": "2026-11-14",
+  "complex": "마포자이힐스테이트라첼스",
+  "type": "144A",
+  "units": 6,
+  "postings": 18,
+  "min": 33.5,
+  "max": 45.0,
+  "avg": 37.5,
+  "median": 35.5
+ },
+ {
+  "date": "2026-11-14",
+  "complex": "마포자이힐스테이트라첼스",
+  "type": "145B",
+  "units": 2,
+  "postings": 5,
+  "min": 35.0,
+  "max": 35.0,
+  "avg": 35.0,
+  "median": 35.0
  }
 ]
