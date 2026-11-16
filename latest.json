@@ -1,6 +1,6 @@
 {
- "collected_at": "2026-11-15T10:40:01+09:00",
- "date": "2026-11-15",
+ "collected_at": "2026-11-16T10:40:01+09:00",
+ "date": "2026-11-16",
  "ok": true,
  "complexes": [
   {
@@ -15,17 +15,17 @@
    "summary": [
     {
      "type": "149A",
-     "units": 7,
-     "postings": 59,
+     "units": 6,
+     "postings": 57,
      "min": 30.5,
      "max": 33.0,
      "avg": 31.57,
-     "median": 31.6
+     "median": 31.5
     },
     {
      "type": "150B",
      "units": 8,
-     "postings": 100,
+     "postings": 98,
      "min": 28.0,
      "max": 32.0,
      "avg": 30.34,
@@ -33,12 +33,12 @@
     },
     {
      "type": "150C",
-     "units": 16,
-     "postings": 64,
+     "units": 17,
+     "postings": 65,
      "min": 27.0,
      "max": 33.0,
-     "avg": 30.32,
-     "median": 30.5
+     "avg": 30.17,
+     "median": 30.0
     }
    ],
    "listings": [
@@ -74,22 +74,12 @@
     },
     {
      "type": "149A",
-     "price": 31.6,
-     "floor": "고",
-     "total_floors": "27",
-     "building": "210동",
-     "direction": "남향",
-     "confirmed": "2026-11-13",
-     "postings": 1
-    },
-    {
-     "type": "149A",
      "price": 32.0,
      "floor": "고",
      "total_floors": "27",
      "building": "210동",
      "direction": "남향",
-     "confirmed": "2026-11-14",
+     "confirmed": "2026-11-16",
      "postings": 31
     },
     {
@@ -100,7 +90,7 @@
      "building": "410동",
      "direction": "남향",
      "confirmed": "2026-11-14",
-     "postings": 11
+     "postings": 10
     },
     {
      "type": "149A",
@@ -140,7 +130,7 @@
      "building": "203동",
      "direction": "남동향",
      "confirmed": "2026-11-14",
-     "postings": 14
+     "postings": 13
     },
     {
      "type": "150B",
@@ -170,7 +160,7 @@
      "building": "203동",
      "direction": "남서향",
      "confirmed": "2026-11-14",
-     "postings": 40
+     "postings": 39
     },
     {
      "type": "150B",
@@ -209,8 +199,18 @@
      "total_floors": "20",
      "building": "202동",
      "direction": "남서향",
-     "confirmed": "2026-11-14",
-     "postings": 43
+     "confirmed": "2026-11-16",
+     "postings": 32
+    },
+    {
+     "type": "150C",
+     "price": 27.7,
+     "floor": "저",
+     "total_floors": "20",
+     "building": "202동",
+     "direction": "남향",
+     "confirmed": "2026-11-16",
+     "postings": 12
     },
     {
      "type": "150C",
@@ -366,7 +366,7 @@
     {
      "type": "144A",
      "units": 5,
-     "postings": 28,
+     "postings": 27,
      "min": 27.0,
      "max": 30.0,
      "avg": 28.4,
@@ -390,7 +390,7 @@
      "total_floors": "21",
      "building": "111동",
      "direction": "남서향",
-     "confirmed": "2026-11-14",
+     "confirmed": "2026-11-16",
      "postings": 1
     },
     {
@@ -401,7 +401,7 @@
      "building": "111동",
      "direction": "남동향",
      "confirmed": "2026-11-14",
-     "postings": 16
+     "postings": 15
     },
     {
      "type": "144A",
@@ -440,7 +440,7 @@
      "total_floors": "19",
      "building": "107동",
      "direction": "남향",
-     "confirmed": "2026-11-13",
+     "confirmed": "2026-11-16",
      "postings": 9
     },
     {
@@ -490,7 +490,7 @@
      "total_floors": "21",
      "building": "102동",
      "direction": "남향",
-     "confirmed": "2026-11-14",
+     "confirmed": "2026-11-16",
      "postings": 26
     },
     {
@@ -729,12 +729,12 @@
    "summary": [
     {
      "type": "144A",
-     "units": 6,
-     "postings": 17,
+     "units": 5,
+     "postings": 16,
      "min": 33.5,
      "max": 45.0,
-     "avg": 37.5,
-     "median": 35.5
+     "avg": 36.6,
+     "median": 35.0
     },
     {
      "type": "145B",
@@ -785,16 +785,6 @@
      "building": "101동",
      "direction": "남서향",
      "confirmed": "2026-11-13",
-     "postings": 1
-    },
-    {
-     "type": "144A",
-     "price": 42.0,
-     "floor": "20",
-     "total_floors": "22",
-     "building": "103동",
-     "direction": "남동향",
-     "confirmed": "2026-10-29",
      "postings": 1
     },
     {
