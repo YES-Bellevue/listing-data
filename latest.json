@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-21T10:40:01+09:00",
+ "collected_at": "2026-11-21T21:39:18+09:00",
  "date": "2026-11-21",
  "ok": true,
  "complexes": [
@@ -25,7 +25,7 @@
     {
      "type": "150B",
      "units": 7,
-     "postings": 96,
+     "postings": 97,
      "min": 28.0,
      "max": 32.0,
      "avg": 30.1,
@@ -79,7 +79,7 @@
      "total_floors": "27",
      "building": "210동",
      "direction": "남향",
-     "confirmed": "2026-11-20",
+     "confirmed": "2026-11-21",
      "postings": 1
     },
     {
@@ -89,7 +89,7 @@
      "total_floors": "27",
      "building": "210동",
      "direction": "남향",
-     "confirmed": "2026-11-20",
+     "confirmed": "2026-11-21",
      "postings": 29
     },
     {
@@ -170,7 +170,7 @@
      "building": "203동",
      "direction": "남서향",
      "confirmed": "2026-11-21",
-     "postings": 49
+     "postings": 50
     },
     {
      "type": "150B",
@@ -179,7 +179,7 @@
      "total_floors": "18",
      "building": "301동",
      "direction": "남동향",
-     "confirmed": "2026-11-14",
+     "confirmed": "2026-11-21",
      "postings": 4
     },
     {
@@ -577,7 +577,7 @@
     {
      "type": "150A",
      "units": 2,
-     "postings": 9,
+     "postings": 10,
      "min": 34.0,
      "max": 35.0,
      "avg": 34.5,
@@ -601,8 +601,8 @@
      "total_floors": "27",
      "building": "111동",
      "direction": "남서향",
-     "confirmed": "2026-11-18",
-     "postings": 7
+     "confirmed": "2026-11-21",
+     "postings": 8
     },
     {
      "type": "150A",
@@ -637,7 +637,7 @@
     {
      "type": "141",
      "units": 4,
-     "postings": 33,
+     "postings": 34,
      "min": 23.5,
      "max": 24.5,
      "avg": 24.05,
@@ -652,8 +652,8 @@
      "total_floors": "17",
      "building": "402동",
      "direction": "남동향",
-     "confirmed": "2026-11-20",
-     "postings": 6
+     "confirmed": "2026-11-21",
+     "postings": 9
     },
     {
      "type": "141",
@@ -662,8 +662,8 @@
      "total_floors": "17",
      "building": "402동",
      "direction": "남동향",
-     "confirmed": "2026-11-19",
-     "postings": 5
+     "confirmed": "2026-11-17",
+     "postings": 2
     },
     {
      "type": "141",
@@ -672,8 +672,8 @@
      "total_floors": "17",
      "building": "402동",
      "direction": "남동향",
-     "confirmed": "2026-11-17",
-     "postings": 10
+     "confirmed": "2026-11-21",
+     "postings": 11
     },
     {
      "type": "141",
@@ -697,12 +697,12 @@
    "summary": [
     {
      "type": "151",
-     "units": 1,
-     "postings": 1,
+     "units": 2,
+     "postings": 2,
      "min": 29.0,
-     "max": 29.0,
-     "avg": 29.0,
-     "median": 29.0
+     "max": 32.0,
+     "avg": 30.5,
+     "median": 30.5
     }
    ],
    "listings": [
@@ -714,6 +714,16 @@
      "building": "507동",
      "direction": "남향",
      "confirmed": "2026-11-12",
+     "postings": 1
+    },
+    {
+     "type": "151",
+     "price": 32.0,
+     "floor": "저",
+     "total_floors": "16",
+     "building": "508동",
+     "direction": "남향",
+     "confirmed": "2026-11-21",
      "postings": 1
     }
    ]
@@ -729,12 +739,12 @@
    "summary": [
     {
      "type": "144A",
-     "units": 6,
+     "units": 5,
      "postings": 19,
      "min": 33.5,
      "max": 45.0,
-     "avg": 37.5,
-     "median": 35.5
+     "avg": 38.3,
+     "median": 36.0
     },
     {
      "type": "145B",
@@ -753,19 +763,9 @@
      "floor": "1",
      "total_floors": "18",
      "building": "101동",
-     "direction": "남서향",
-     "confirmed": "2026-11-17",
-     "postings": 12
-    },
-    {
-     "type": "144A",
-     "price": 33.5,
-     "floor": "저",
-     "total_floors": "18",
-     "building": "101동",
      "direction": "남향",
-     "confirmed": "2026-11-18",
-     "postings": 3
+     "confirmed": "2026-11-21",
+     "postings": 15
     },
     {
      "type": "144A",
@@ -800,11 +800,11 @@
     {
      "type": "144A",
      "price": 45.0,
-     "floor": "10",
+     "floor": "고",
      "total_floors": "13",
      "building": "110동",
      "direction": "남향",
-     "confirmed": "2026-11-07",
+     "confirmed": "2026-11-21",
      "postings": 1
     },
     {
