@@ -1,6 +1,6 @@
 {
- "collected_at": "2026-11-22T10:40:02+09:00",
- "date": "2026-11-22",
+ "collected_at": "2026-11-23T10:40:01+09:00",
+ "date": "2026-11-23",
  "ok": true,
  "complexes": [
   {
@@ -16,7 +16,7 @@
     {
      "type": "149A",
      "units": 7,
-     "postings": 58,
+     "postings": 57,
      "min": 30.5,
      "max": 33.0,
      "avg": 31.57,
@@ -25,7 +25,7 @@
     {
      "type": "150B",
      "units": 7,
-     "postings": 94,
+     "postings": 93,
      "min": 28.0,
      "max": 32.0,
      "avg": 30.1,
@@ -34,7 +34,7 @@
     {
      "type": "150C",
      "units": 17,
-     "postings": 63,
+     "postings": 61,
      "min": 27.0,
      "max": 33.0,
      "avg": 30.17,
@@ -100,7 +100,7 @@
      "building": "410동",
      "direction": "남향",
      "confirmed": "2026-11-19",
-     "postings": 9
+     "postings": 8
     },
     {
      "type": "149A",
@@ -170,7 +170,7 @@
      "building": "203동",
      "direction": "남서향",
      "confirmed": "2026-11-21",
-     "postings": 49
+     "postings": 48
     },
     {
      "type": "150B",
@@ -200,7 +200,7 @@
      "building": "202동",
      "direction": "남서향",
      "confirmed": "2026-11-21",
-     "postings": 32
+     "postings": 31
     },
     {
      "type": "150C",
@@ -290,7 +290,7 @@
      "building": "401동",
      "direction": "남향",
      "confirmed": "2026-10-30",
-     "postings": 2
+     "postings": 1
     },
     {
      "type": "150C",
@@ -366,7 +366,7 @@
     {
      "type": "144A",
      "units": 5,
-     "postings": 30,
+     "postings": 29,
      "min": 27.5,
      "max": 30.0,
      "avg": 28.5,
@@ -421,7 +421,7 @@
      "building": "111동",
      "direction": "남동향",
      "confirmed": "2026-11-12",
-     "postings": 4
+     "postings": 3
     },
     {
      "type": "144A",
@@ -601,7 +601,7 @@
      "total_floors": "27",
      "building": "111동",
      "direction": "남서향",
-     "confirmed": "2026-11-21",
+     "confirmed": "2026-11-23",
      "postings": 8
     },
     {
@@ -652,7 +652,7 @@
      "total_floors": "17",
      "building": "402동",
      "direction": "남동향",
-     "confirmed": "2026-11-21",
+     "confirmed": "2026-11-23",
      "postings": 9
     },
     {
@@ -749,7 +749,7 @@
     {
      "type": "145B",
      "units": 2,
-     "postings": 7,
+     "postings": 6,
      "min": 35.0,
      "max": 36.0,
      "avg": 35.5,
@@ -815,7 +815,7 @@
      "building": "109동",
      "direction": "남동향",
      "confirmed": "2026-11-19",
-     "postings": 6
+     "postings": 5
     },
     {
      "type": "145B",
